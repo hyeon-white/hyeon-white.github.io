@@ -1523,6 +1523,8 @@
 }
 .icon-instagram:before {
   content: "\eac2";
+  opacity: 1;
+    visibility: visible;
 }
 .icon-whatsapp:before {
   content: "\eac3";
